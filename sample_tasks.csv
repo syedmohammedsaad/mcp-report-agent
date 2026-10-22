@@ -1,0 +1,6 @@
+task,owner,status,due
+Write API spec,Asha,done,2026-10-10
+Build login page,Ravi,in progress,2026-10-15
+Add Playwright tests,Saad,todo,2026-10-20
+Fix pricing bug,Ravi,todo,2026-12-01
+Update landing page copy,Asha,in progress,2026-12-05
